@@ -32,7 +32,6 @@ El flujo del proyecto incluye:
 ```
 ├── TelecomX_Data.json          # Archivo de datos original en JSON
 ├── analysis_telecom_x.ipynb    # Notebook con todo el proceso
-├── preprocess.py               
 └── README.md                   
 ```
 
