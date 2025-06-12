@@ -23,7 +23,6 @@ El flujo del proyecto incluye:
 - `pandas`
 - `numpy`
 - `matplotlib`
-- `seaborn` *(opcional para visualización avanzada)*
 - `json_normalize` para estructuras anidadas
 
 ---
@@ -33,8 +32,8 @@ El flujo del proyecto incluye:
 ```
 ├── TelecomX_Data.json          # Archivo de datos original en JSON
 ├── analysis_telecom_x.ipynb    # Notebook con todo el proceso
-├── preprocess.py               # Script de preprocesamiento (opcional)
-└── README.md                   # Este archivo
+├── preprocess.py               
+└── README.md                   
 ```
 
 ---
@@ -87,9 +86,9 @@ El flujo del proyecto incluye:
 
 ---
 
-## 🤝 Autor
+## 🤝 Creador
 
-- **Tu Nombre** ([@tucuenta](https://github.com/tucuenta))  
+- **Pablo** ([@tucuenta](https://github.com/tucuenta))  
 - Desarrollador en formación | Apasionado por la ciencia de datos 📈
 
 ---
