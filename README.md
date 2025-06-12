@@ -1,11 +1,11 @@
 
-# 1. Análisis de Evasión de Clientes - Telecom X
+#   Análisis de Evasión de Clientes - Telecom X
 
 Este proyecto forma parte de un desafío de análisis de datos para la empresa **Telecom X**, que busca reducir su alta tasa de abandono de clientes (**churn**). A través de técnicas de limpieza, transformación y análisis exploratorio, se identifican los factores clave que influyen en el comportamiento de evasión de los usuarios.
 
 ---
 
-## 2. Descripción del Proyecto
+## 1. Descripción del Proyecto
 
 El objetivo principal es comprender por qué los clientes abandonan el servicio, a través del análisis de datos históricos proporcionados en formato JSON.
 
@@ -18,7 +18,7 @@ El flujo del proyecto incluye:
 
 ---
 
-## 3. Principales Herramientas y Librerías
+## 2. Principales Herramientas y Librerías
 
 - `pandas`
 - `numpy`
@@ -27,7 +27,7 @@ El flujo del proyecto incluye:
 
 ---
 
-## 4. Estructura del Proyecto
+## 3. Estructura del Proyecto
 
 ```
 ├── TelecomX_Data.json          # Archivo de datos original en JSON
@@ -38,7 +38,7 @@ El flujo del proyecto incluye:
 
 ---
 
-## 5. Pasos del Análisis
+## 4. Pasos del Análisis
 
 1. **Carga y exploración de los datos**
    - Lectura del JSON
@@ -62,7 +62,7 @@ El flujo del proyecto incluye:
 
 ---
 
-## 6. Hallazgos Clave
+## 5. Hallazgos Clave
 
 - Los contratos **mensuales** presentan una tasa de evasión del **41%**, en comparación con solo el **2.7%** en contratos de dos años.
 - El método de pago **electronic check** está relacionado con una tasa de churn superior al **43%**.
@@ -70,7 +70,7 @@ El flujo del proyecto incluye:
 
 ---
 
-## 7. Recomendaciones Estratégicas
+## 6. Recomendaciones Estratégicas
 
 - Incentivar contratos de largo plazo con beneficios atractivos.
 - Mejorar la experiencia de usuario en pagos electrónicos y facturación digital.
@@ -79,13 +79,13 @@ El flujo del proyecto incluye:
 ---
 
 
-## 8. Creador
+## 7. Creador
 
 - **Pablo** ([@tucuenta](https://github.com/tucuenta))  
 - Desarrollador en formación | Apasionado por la ciencia de datos 📈
 
 ---
 
-## 9. Licencia
+## 8. Licencia
 
 Este proyecto es parte de un desafío académico y no está asociado oficialmente con ninguna empresa real. Uso educativo.
