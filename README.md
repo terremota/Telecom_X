@@ -30,9 +30,9 @@ El flujo del proyecto incluye:
 ## 3. Estructura del Proyecto
 
 ```
-├── README.md       # Archivo de datos original en JSON
-├── TelecomX_Data.json 
-└── telecom_x.ipynb    # Notebook con todo el proceso                 
+├── README.md      
+├── TelecomX_Data.json   # Archivo de datos original en JSON
+└── telecom_x.ipynb      # Notebook con todo el proceso                 
 ```
 
 ---
